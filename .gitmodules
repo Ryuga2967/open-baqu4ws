@@ -1,0 +1,7 @@
+[submodule "src/ultralytics_ros"]
+	path = src/ultralytics_ros
+	url = https://github.com/ryuga2967/ultralytics_ros
+[submodule "src/vision_msgs"]
+	path = src/vision_msgs
+	url = https://github.com/ros-perception/vision_msgs
+	branch = noetic-devel
